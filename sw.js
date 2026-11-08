@@ -1,6 +1,6 @@
 // Para Margaux sin conexión: la primera vez se guarda el juego entero (es un solo archivo grande) y después
 // se abre desde el móvil al momento. Cada versión publicada cambia VERSION y se descarga una vez.
-const VERSION = '1794133641386';
+const VERSION = '1794136178765';
 const CACHE = 'margaux-' + VERSION;
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
